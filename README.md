@@ -16,7 +16,7 @@ In this github (Report & Notebook), we present and discuss
 the paper *Show and tell: a neural image caption generator* by O. Vinyals, A. Toshev,
 S. Bengio and D. Erhan in 2014 [1] in which the authors study that problem.
 
-We finally implement step by step in the notebook, the proposed model using the Flickr8k dataset.
+We finally implement the proposed model using the Flickr8k dataset and study the results. In the Notebook, you'll find a step-by-step and detailed approach of the model.
 
 ## Outline 
 
