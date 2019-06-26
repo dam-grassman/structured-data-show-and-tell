@@ -17,3 +17,17 @@ the paper *Show and tell: a neural image caption generator* by O. Vinyals, A. To
 S. Bengio and D. Erhan in 2014 [1] in which the authors study that problem.
 
 We finally implement step by step in the notebook, the proposed model using the Flickr8k dataset.
+
+## Outline 
+
+### 1. Description and Understanding of the Flickr8k Dataset
+
+### 2.  A Neural Image Caption Generator
+ - 2.1 Image Encoder using Pre-Trained CNN models
+ -   2.2 LSTM-based Sentence Generator
+ -   2.3 Model : Mixing all together
+  
+### 3. Image Captioning Results
+ - 3.1 Decoding Strategies
+ - 3.2 Examples
+ -   3.3 Analysis
